@@ -1,0 +1,19 @@
+.dashboard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 50vh;
+    width: 100%;
+}
+
+.db_items{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.db_btn{
+    margin: 0 20px;
+}
